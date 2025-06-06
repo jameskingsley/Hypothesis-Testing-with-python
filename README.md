@@ -27,9 +27,7 @@ Visualize the distributions of sleep duration.
 #### Tools & Technologies
 Language: Python
 
-Libraries: pandas, seaborn, matplotlib, scipy.stats, yfinance (for financial data, optional)
-
-Jupyter Notebook
+Libraries: pandas, seaborn, matplotlib, scipy.stats,Jupyter Notebook, dash/plotly
 
 Data Source: Sleep Health and Lifestyle Dataset
 
