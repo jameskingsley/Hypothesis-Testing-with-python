@@ -29,7 +29,7 @@ Language: Python
 
 Libraries: pandas, seaborn, matplotlib, scipy.stats,Jupyter Notebook, dash/plotly
 
-Data Source: Sleep Health and Lifestyle Dataset
+Data Source: kaggle
 
 ### Data Description
 The dataset contains individual-level data with the following relevant columns:
@@ -68,7 +68,7 @@ p-value: < 0.001
 ###### Conclusion: 
 There is a statistically significant difference in sleep duration between individuals with and without sleep disorders. Individuals without sleep disorders tend to sleep longer.
 
-#Visuals
+#### Visuals
 Boxplot comparing sleep durations by disorder status
 
 ![image](https://github.com/user-attachments/assets/229de84c-49ca-4370-865d-bdf0240e8ded)
